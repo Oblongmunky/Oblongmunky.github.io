@@ -16,7 +16,7 @@ html {
 body {
     margin: 0;
     background-image: url(https://images4.alphacoders.com/587/587777.png);
-    background-position: center;
+    background-size: auto;
 }
 
 article,
