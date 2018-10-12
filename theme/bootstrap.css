@@ -458,7 +458,8 @@ h2,
 }
 h3,
 .h3 {
-  font-size: 24px;
+    font-size: 24px;
+    color: #556B2F;
 }
 h4,
 .h4 {
