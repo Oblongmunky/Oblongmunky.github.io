@@ -368,10 +368,10 @@ h6,
 .h4,
 .h5,
 .h6 {
-    font-family: inherit;
-    font-weight: 400;
-    line-height: 1.1;
-    color: #556B2F;
+  font-family: inherit;
+  font-weight: 400;
+  line-height: 1.1;
+  color: #333333;
 }
 h1 small,
 h2 small,
@@ -449,7 +449,8 @@ h6 .small,
 }
 h1,
 .h1 {
-  font-size: 36px;
+    font-size: 36px;
+    color: #556B2F;
 }
 h2,
 .h2 {
