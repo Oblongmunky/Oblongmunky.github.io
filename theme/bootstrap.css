@@ -3948,11 +3948,11 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   }
 }
 .navbar-default {
-    overflow: hidden;
     background-color: #333;
     position: fixed;
     top: 0;
     width: 100%;
+    color: #556B2F;
 }
 .navbar-default .navbar-brand {
   color: #333333;
