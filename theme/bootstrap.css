@@ -237,13 +237,13 @@ th {
   select {
     background: #fff !important;
   }
-  .navbar {
-    display: none;
-    overflow: hidden;
-    position: fixed;
-    top: 0;
-    width: 100%;
-  }  
+    .navbar {
+        overflow: hidden;
+        background-color: #333;
+        position: fixed;
+        top: 0;
+        width: 100%;
+    }  
   .table td,
   .table th {
     background-color: #fff !important;
@@ -742,10 +742,11 @@ pre code {
   overflow-y: scroll;
 }
 .container {
-  margin-right: auto;
-  margin-left: auto;
-  padding-left: 15px;
-  padding-right: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    padding-left: 15px;
+    padding-right: 15px;
+    text-decoration-color: #556B2F;
 }
 @media (min-width: 768px) {
   .container {
