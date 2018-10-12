@@ -368,39 +368,39 @@ h6,
 .h4,
 .h5,
 .h6 {
-  font-family: inherit;
-  font-weight: 400;
-  line-height: 1.1;
-  color: #333333;
+    font-family: inherit;
+    font-weight: 400;
+    line-height: 1.1;
+    color: #556B2F;
 }
-h1 small,
-h2 small,
-h3 small,
-h4 small,
-h5 small,
-h6 small,
-.h1 small,
-.h2 small,
-.h3 small,
-.h4 small,
-.h5 small,
-.h6 small,
-h1 .small,
-h2 .small,
-h3 .small,
-h4 .small,
-h5 .small,
-h6 .small,
-.h1 .small,
-.h2 .small,
-.h3 .small,
-.h4 .small,
-.h5 .small,
-.h6 .small {
-  font-weight: normal;
-  line-height: 1;
-  color: #999999;
-}
+    h1 small,
+    h2 small,
+    h3 small,
+    h4 small,
+    h5 small,
+    h6 small,
+    .h1 small,
+    .h2 small,
+    .h3 small,
+    .h4 small,
+    .h5 small,
+    .h6 small,
+    h1 .small,
+    h2 .small,
+    h3 .small,
+    h4 .small,
+    h5 .small,
+    h6 .small,
+    .h1 .small,
+    .h2 .small,
+    .h3 .small,
+    .h4 .small,
+    .h5 .small,
+    .h6 .small {
+        font-weight: normal;
+        line-height: 1;
+        color: #556B2F;
+    }
 h1,
 .h1,
 h2,
@@ -454,7 +454,8 @@ h1,
 }
 h2,
 .h2 {
-  font-size: 30px;
+    font-size: 30px;
+    color: #556B2F;
 }
 h3,
 .h3 {
@@ -463,15 +464,18 @@ h3,
 }
 h4,
 .h4 {
-  font-size: 18px;
+    font-size: 18px;
+    color: #556B2F;
 }
 h5,
 .h5 {
-  font-size: 14px;
+    font-size: 14px;
+    color: #556B2F;
 }
 h6,
 .h6 {
-  font-size: 12px;
+    font-size: 12px;
+    color: #556B2F;
 }
 p {
   margin: 0 0 10px;
@@ -746,7 +750,6 @@ pre code {
     margin-left: auto;
     padding-left: 15px;
     padding-right: 15px;
-    color: #556B2F;
 }
 @media (min-width: 768px) {
   .container {
