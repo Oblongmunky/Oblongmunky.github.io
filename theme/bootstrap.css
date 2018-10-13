@@ -888,9 +888,6 @@ pre {
     margin-left: auto;
     padding-left: 15px;
     padding-right: 15px;
-    box-shadow: 10px 10px 5px grey;
-    border-style: hidden;
-    border-radius: 5px;
 }
 
 @media (min-width: 768px) {
